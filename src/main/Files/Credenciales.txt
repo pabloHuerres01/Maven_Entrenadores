@@ -1,0 +1,9 @@
+Rodrigo  1  Admin  1
+Adrian  pp  Admin Torneo  0
+aa  Pas  Admin Torneo  0
+PPAPAP  AD1  Admin Torneo  0
+OPIA  AP  Admin Torneo  0
+dfas  fafd    Entrenador  7
+gsad  sfsf    Entrenador  8
+Admin1  password1  Admin Torneo  1
+jdjffjsjkf  jsjfsj  Admin Torneo  18
